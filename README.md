@@ -7,8 +7,8 @@ Việc sử dụng các framework hiện đại trong phát triển ứng dụng
 Quá trình biên dịch và phát hành ứng dụng web từ Dart và Framework sẽ tự động sinh ra mã cho backend và mã cho frontend (HTML, CSS và JavaScript) mà chúng ta không cần phải viết chúng trực tiếp. Điều này giúp chúng ta tập trung vào logic ứng dụng và giảm thiểu thời gian viết mã lặp lại. Tương tự, khi biên dịch ra các nền tảng di động hay desktop, chúng cũng sinh ra ứng dụng native trên cùng một codebase.
 
 ## Mục tiêu
-- Hiểu và áp dụng được các khái niệm cơ bản về ứng dụng web động, ứng dụng đa nền tảng.
-- Sử dụng Flutter framework để tạo giao diện đơn giản cho một ứng dụng.
+_ Hiểu và áp dụng được các khái niệm cơ bản về ứng dụng web động, ứng dụng đa nền tảng.
+ Sử dụng Flutter framework để tạo giao diện đơn giản cho một ứng dụng.
 - Sử dụng Dart và thư viện shelf, shelf_router để tạo server đơn giản xử lý các yêu cầu HTTP theo chuẩn RESTful API.
 - Tích hợp giao diện với logic xử lý phản hồi từ server, thực hiện thao tác gửi dữ liệu từ client lên server thông qua HTTP POST.
 - Kiểm thử đơn giản với Postman để kiểm tra phản hồi từ server đối với các yêu cầu GET và POST, bao gồm cả trường hợp hợp lệ và không hợp lệ.
@@ -68,4 +68,8 @@ Quá trình biên dịch và phát hành ứng dụng web từ Dart và Framewor
 - Chọn Source Control ở thanh Side Bar và chọn Publish to GitHub.
 - Quản lý mã nguồn bằng cách commit, push (Sync Changes...), pull,... từ cửa sổ Source Control. Lưu ý: Nếu bạn chưa có Git thì hãy cài Git (tham khảo google). Các bạn cũng cần một chút kiến thức sử dụng GitHub từ google cũng khá là dễ.
 ### Bước 6: Phát triển backend và kiểm thử
+
+
+
+
 ### Bước 7: Phát triển frontend và tích hợp hệ thống
